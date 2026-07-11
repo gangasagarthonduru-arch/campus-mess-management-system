@@ -1,1 +1,0 @@
-# campus-mess-management-system
